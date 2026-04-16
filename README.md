@@ -1,0 +1,2 @@
+# kursova.io
+MYPROJECT
